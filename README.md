@@ -1,6 +1,10 @@
+
+# demo
+[https://chenyiya.com/gitbook/vue-basic-minisite/](https://chenyiya.com/gitbook/vue-basic-minisite/)
+
 # hello-vue
 
-> sample project for vue-cli
+> 《Vue-cli 基礎入門 - 2018 》範例程式
 
 ## Build Setup
 
@@ -19,3 +23,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# License
+[Chen, Yi-Ya](https://chenyiya.com/)
