@@ -1,6 +1,6 @@
 <template>
   <div class="footer position-absolute">
-    <p>© 2018 <a href="https://chenyiya.com">Chen, Yi-Ya.</a></p>
+    <p>© 2018 <a href="https://chenyiya.com" target="_blank">Chen, Yi-Ya.</a></p>
   </div>
 </template>
 
